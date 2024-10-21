@@ -1,6 +1,6 @@
 ---
 ## Front matter
-title: "Шаблон отчёта по лабораторной работе"
+title: "Отчет по лабораторной работе №2"
 subtitle: "дисциплина: Архитектура компьютера"
 author: "Мутаев Муртазаали Магомедович"
 
@@ -109,7 +109,7 @@ git.
 
 ## Создание репозитория курса на основе шаблона
 
-Я перешел на станицу репозитория с шаблоном курса [https://github.com/yamadharma/course-directory-student-template](https://github.com/yamadharma/course-directory-student-template). Далее выбрал Use this template. В открывшемся окне задал имя репозитория (Repository name) study_2023–2024_arh-pc и создал репозиторий (кнопecho os-intro > COURSEка Create repository from template) (рис. [-@fig:006])
+Я перешел на станицу репозитория с шаблоном курса [https://github.com/yamadharma/course-directory-student-template](https://github.com/yamadharma/course-directory-student-template). Далее выбрал Use this template. В открывшемся окне задал имя репозитория (Repository name) study_2023–2024_arh-pc и создал репозиторий (кнопка Create repository from template) (рис. [-@fig:006])
 
 ![Создание репозитория](image/6.jpg){#fig:006 width=70%}
 
